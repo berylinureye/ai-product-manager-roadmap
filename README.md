@@ -53,6 +53,7 @@
 
 - `8-week-learning-plan.md`：每天 3 小时的两个月学习计划。
 - `course-based-plan.md`：按课程和开源教程组织的阶梯式学习计划。
+- `datawhale-hello-agents/`：Datawhale Hello-Agents 逐章学习记录。
 - `templates/weekly-log-template.md`：每周记录模板。
 - `templates/github-rank-review-template.md`：GitHub 周榜体验记录模板。
 - `weekly-logs/`：后续每周复盘放这里。
