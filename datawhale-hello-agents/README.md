@@ -8,13 +8,11 @@
 
 ## 学习记录
 
-| 日期 | 内容 | 文件 |
+| 学习时间 | 内容 | 文件 |
 | --- | --- | --- |
-| 2026-06-17 | 第一章《初识智能体》完整学习记录 | [2026-06-17-hello-agents-chapter1.md](./2026-06-17-hello-agents-chapter1.md) |
-| 2026-06-17 | 第二章《智能体发展史》阶段学习记录：符号主义、专家系统、MYCIN、SHRDLU | [2026-06-17-hello-agents-chapter2.md](./2026-06-17-hello-agents-chapter2.md) |
-| 2026-06-18 | 第二章《智能体发展史》续学记录：符号主义挑战、ELIZA、心智社会、学习范式 | [2026-06-17-hello-agents-chapter2.md](./2026-06-17-hello-agents-chapter2.md) |
-| 2026-06-19 | 第二章《智能体发展史》完成记录：LLM Agent、思想流派融合、本章总结 | [2026-06-17-hello-agents-chapter2.md](./2026-06-17-hello-agents-chapter2.md) |
-| 2026-06-17 | Agent 基础概念与 A-Level Plus 项目关联思考 | [2026-06-17-agent-first-principles.md](./2026-06-17-agent-first-principles.md) |
+| 2026-06-17 | 第一章《初识智能体》完整学习记录 | [hello-agents-chapter1.md](./hello-agents-chapter1.md) |
+| 2026-06-17 至 2026-06-19 | 第二章《智能体发展史》完整学习记录 | [hello-agents-chapter2.md](./hello-agents-chapter2.md) |
+| 2026-06-17 | Agent 基础概念与 A-Level Plus 项目关联思考 | [agent-first-principles.md](./agent-first-principles.md) |
 
 ## 记录方式
 
