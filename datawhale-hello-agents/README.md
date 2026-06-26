@@ -13,6 +13,7 @@
 | 2026-06-17 | 第一章《初识智能体》完整学习记录 | [hello-agents-chapter1.md](./hello-agents-chapter1.md) |
 | 2026-06-17 至 2026-06-19 | 第二章《智能体发展史》完整学习记录 | [hello-agents-chapter2.md](./hello-agents-chapter2.md) |
 | 2026-06-19 至 2026-06-22 | 第三章《大语言模型基础》完整学习记录 | [hello-agents-chapter3.md](./hello-agents-chapter3.md) |
+| 2026-06-22 至 2026-06-24 | 第四章《智能体经典范式构建》完整学习记录 | [hello-agents-chapter4.md](./hello-agents-chapter4.md) |
 | 2026-06-17 | Agent 基础概念与 A-Level Plus 项目关联思考 | [agent-first-principles.md](./agent-first-principles.md) |
 
 ## 记录方式
